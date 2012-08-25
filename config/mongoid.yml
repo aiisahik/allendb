@@ -11,8 +11,8 @@ development:
       username: allendb
       password: 325Berry
       hosts:
-        #- alex.mongohq.com:10096 #MongoHQ
-        - ds037407.mongolab.com:37407 #MongoLab
+        - alex.mongohq.com:10096 #MongoHQ
+        #- ds037407.mongolab.com:37407 #MongoLab
       options:
         # Change whether the session persists in safe mode by default.
         # (default: false)
