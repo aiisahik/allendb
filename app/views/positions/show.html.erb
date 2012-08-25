@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Ticker:</b>
+  <%= @position.ticker %>
+</p>
+
+<p>
+  <b>Tradeaction:</b>
+  <%= @position.tradeAction %>
+</p>
+
+<p>
+  <b>Tradetime:</b>
+  <%= @position.tradeTime %>
+</p>
+
+<p>
+  <b>Tradeamount:</b>
+  <%= @position.tradeAmount %>
+</p>
+
+
+<%= link_to 'Edit', edit_position_path(@position) %> |
+<%= link_to 'Back', positions_path %>

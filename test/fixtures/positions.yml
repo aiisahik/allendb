@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  ticker: MyString
+  tradeAction: MyString
+  tradeTime: 
+  tradeAmount: 
+
+two:
+  ticker: MyString
+  tradeAction: MyString
+  tradeTime: 
+  tradeAmount: 
