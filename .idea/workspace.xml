@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da97fe17-844b-46ae-902a-749c5f7bd3b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="$PROJECT_DIR$/config/database.yml" />
     </list>
     <ignored path="allendb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,7 +83,16 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="50" selection-start="335" selection-end="335" vertical-scroll-proportion="0.4676007">
+            <state line="25" column="26" selection-start="313" selection-end="313" vertical-scroll-proportion="0.6745362">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="36" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -122,6 +133,7 @@
         <option value="$PROJECT_DIR$/config/environment.rb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/config/mongoid.yml" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
@@ -627,13 +639,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="34" selection-start="78" selection-end="85" vertical-scroll-proportion="0.08094435">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/mongoid.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="33" selection-start="2559" selection-end="2559" vertical-scroll-proportion="0.0">
@@ -648,9 +653,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="36" selection-start="544" selection-end="544" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="50" selection-start="335" selection-end="335" vertical-scroll-proportion="0.4676007">
+        <state line="25" column="26" selection-start="313" selection-end="313" vertical-scroll-proportion="0.6745362">
           <folding />
         </state>
       </provider>

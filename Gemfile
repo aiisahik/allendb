@@ -18,7 +18,12 @@ gem "mongoid", "~> 3.0.0"
 gem "heroku"
 gem 'thin'
 
-gem 'pg'
+
+group :production, :staging do
+  gem 'pg'
+end
+
+
 
 # Bootstrap
 gem "twitter-bootstrap-rails", :group => :assets
