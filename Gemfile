@@ -17,7 +17,10 @@ gem "mongoid", "~> 3.0.0"
 # Heroku
 gem "heroku"
 gem 'thin'
-
+group :development do
+  gem 'taps'
+  gem 'rvm'
+end
 
 group :production, :staging do
   gem 'pg'
